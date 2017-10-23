@@ -1,11 +1,17 @@
 # CryptoParty
+## Table of Contents
+1. [Materials](#materials)
+2. [Resource](#resources)
+3. [Safer Spaces](#safer-spaces)
+
 ## Materials
 This repo contains all our presentation materials that we've created for cryptoparties. They are:
 * General info sheet
 * PGP set-up guide
 * Threat modeling powerpoint
 
-## Resource List (10/2017)
+## Resources 
+* (10/2017)
 
 ### Privacy Tools
 * [privacytools.io](https://www.privacytools.io/) — List of and recommendations for free privacy software
@@ -37,3 +43,6 @@ This repo contains all our presentation materials that we've created for cryptop
 ### Guides for Workshops
 * [Holistic Security Trainer's Guide](https://holistic-security.tacticaltech.org/trainers-manual)
 * [Level-Up](https://www.level-up.cc/)
+
+## Safer Spaces <a name="safer-spaces"></a>
+
