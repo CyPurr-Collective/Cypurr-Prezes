@@ -44,6 +44,14 @@ Updated as of 10/2017
 * [Holistic Security Trainer's Guide](https://holistic-security.tacticaltech.org/trainers-manual)
 * [Level-Up](https://www.level-up.cc/)
 
+### Other Digital Security Groups 
+* [Quiltbag](quiltbagtech.ny)
+* [CryptoHarlem](https://www.facebook.com/cryptoharlem)
+* [Cryptoparty NYC](https://www.meetup.com/New-York-Cryptoparty-Network/)
+* [NYC Mesh](https://nycmesh.net/)
+* [NYC Resistor](https://www.nycresistor.com/)
+* [Electronic Frontier Alliance](https://www.eff.org/electronic-frontier-alliance)
+
 ## Safer Spaces <a name="safer-spaces"></a>
 This section is very much TK, but a couple comments:
 We approach security as an emotional issue, not just a technical one. We want people at our workshops to come away with concrete steps they can take to make themselves be and feel safer, overall. To do that, we all need to be able to talk about our experiences, fears, and priorities freely. And that can only happen if people feel that they can say those things aloud without fear of getting shutdown or shamed for them, or that they will be recorded in some way that they did not expect. For those reasons, we will interrupt or stop any kind of speech that demeans another workshop attendee, which includes sexist, racist, transphobic, ableist, or technocratic language. We also ask journalists and researchers to refrain from taking photos or recording statements without getting the permission of the entire room first. 
