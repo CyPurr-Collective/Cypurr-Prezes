@@ -26,12 +26,13 @@ Updated as of 10/2017
   * [Canvas Defender](https://multiloginapp.com/canvasdefender-browser-extension/) — Protects your browser's canvas/rendering information
   * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) — What it says on the tin
   * [Terms of Service; Didn't Read](https://tosdr.org/) — Quick summary of sites' Terms of Service pros and cons 
-* Pretty Good Privacy (PGP) — Email encryption with public-key cryptography
+* [Authy](https://authy.com/) / [Yubikey](https://www.yubico.com) — Both make two-factor authentication easier and more secure than SMS-texting codes
 * [Tor Browser Bundle](https://www.torproject.org/) — Prevents any one from tracing this browser's website visits (if you're careful)
 * [Tails OS](https://tails.boum.org/) — Operating system that only operates in RAM and connects to the Internet through the Tor network
 * [Onion Share](https://onionshare.org/) — File sharing over the Tor Network
 * [Ghost Bin](https://ghostbin.com) — Encrypted pastebin service
 * [Veracrypt](https://www.veracrypt.fr/en/Home.html) — Disk and file encryption utility
+* Pretty Good Privacy (PGP) — Email encryption with public-key cryptography
 
 ### Readings
 * [Surveillance Self-Defense](ssd.eff.org) by the EFF
@@ -39,7 +40,6 @@ Updated as of 10/2017
 * [Holistic Security](https://holistic-security.tacticaltech.org) by Tactical Tech Collective
 * [CryptoParty Handbook](https://www.cryptoparty.in/learn/handbook)
 * [Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php) by the Committee to Protect Journalists
-* [Digital First-Aid Kit](https://www.digitaldefenders.org/digitalfirstaid) by Digital Defenders
 * [Networks of New York](https://www.mhpbooks.com/books/networks-of-new-york/) by Ingrid Burrington
 
 ### Demonstration Tools
