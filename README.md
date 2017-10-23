@@ -17,6 +17,7 @@ Updated as of 10/2017
 * [privacytools.io](https://www.privacytools.io/) — List of and recommendations for free privacy software
 * [Prism Break](https://prism-break.org/en/) — List of open-source software projects
 * [Diceware](https://www.eff.org/files/2016/07/18/eff_large_wordlist.txt) — Password generation list
+* [KeePass](https://keepass.info/) / [KeePassX](https://www.keepassx.org/) — Password managers (they're very similar, just for different operating systems)
 * Browser Extensions: 
   * [uBlock Origin](https://www.ublock.org/) — Ad Blocker
   * [Privacy Badger](https://www.eff.org/privacybadger) — Ad/Tracking Blocker
