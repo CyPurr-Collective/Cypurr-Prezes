@@ -11,7 +11,7 @@ This repo contains all our presentation materials that we've created for cryptop
 * Threat modeling powerpoint
 
 ## Resources 
-* (10/2017)
+Updated as of 10/2017
 
 ### Privacy Tools
 * [privacytools.io](https://www.privacytools.io/) — List of and recommendations for free privacy software
@@ -45,4 +45,7 @@ This repo contains all our presentation materials that we've created for cryptop
 * [Level-Up](https://www.level-up.cc/)
 
 ## Safer Spaces <a name="safer-spaces"></a>
+This section is very much TK, but a couple comments:
+We approach security as an emotional issue, not just a technical one. We want people at our workshops to come away with concrete steps they can take to make themselves be and feel safer, overall. To do that, we all need to be able to talk about our experiences, fears, and priorities freely. And that can only happen if people feel that they can say those things aloud without fear of getting shutdown or shamed for them, or that they will be recorded in some way that they did not expect. For those reasons, we will interrupt or stop any kind of speech that demeans another workshop attendee, which includes sexist, racist, transphobic, ableist, or technocratic language. We also ask journalists and researchers to refrain from taking photos or recording statements without getting the permission of the entire room first. 
 
+For concrete suggestions on how you can help create a safe space, we very much like the [Quiltbag++ Code of Conduct](https://github.com/quiltbagtech/whatisquiltbag/wiki/Code-of-Conduct-Draft).
