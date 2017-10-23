@@ -1,4 +1,4 @@
-# CryptoParty Presentation
+# CryptoParty
 ## Materials
 This repo contains all our presentation materials that we've created for cryptoparties. They are:
 * General info sheet
@@ -11,9 +11,13 @@ This repo contains all our presentation materials that we've created for cryptop
 * [privacytools.io](https://www.privacytools.io/)
 * [Prism Break](https://prism-break.org/en/)
 * Diceware
-* uBlock Origin, Privacy Badger
-* PGP
-* Tor
+* Browser Extensions: uBlock Origin, Privacy Badger, HTTPS Everywhere, Decentraleyes, Canvas Defender, Cookie AutoDelete, Terms of Service; Didn't Read, 
+* Pretty Good Privacy (PGP) email encryption
+* Tor Browser
+* Tails OS
+* [Onion Share](https://onionshare.org/)
+* [Ghost Bin](https://ghostbin.com)
+* [Laverna](https://laverna.cc)
 
 ### Readings
 * [Surveillance Self-Defense](ssd.eff.org) by the EFF
