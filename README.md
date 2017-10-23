@@ -17,13 +17,20 @@ Updated as of 10/2017
 * [privacytools.io](https://www.privacytools.io/) — List of and recommendations for free privacy software
 * [Prism Break](https://prism-break.org/en/) — List of open-source software projects
 * [Diceware](https://www.eff.org/files/2016/07/18/eff_large_wordlist.txt) — Password generation list
-* Browser Extensions: [uBlock Origin](https://www.ublock.org/) (Ad Blocker), [Privacy Badger](https://www.eff.org/privacybadger) (Ad/Tracking Blocker), [HTTPS Everywhere](https://www.eff.org/https-everywhere) (Ensure encrypted website connection), [Decentraleyes](https://decentraleyes.org/), [Canvas Defender](https://multiloginapp.com/canvasdefender-browser-extension/) (Protects your browser's canvas/rendering information), [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) (What it says on the tin), [Terms of Service; Didn't Read](https://tosdr.org/) (Quick summary of sites' Terms of Service pros and cons) 
+* Browser Extensions: 
+  * [uBlock Origin](https://www.ublock.org/) — Ad Blocker
+  * [Privacy Badger](https://www.eff.org/privacybadger) — Ad/Tracking Blocker
+  * [HTTPS Everywhere](https://www.eff.org/https-everywhere) — Ensure encrypted website connection
+  * [Decentraleyes](https://decentraleyes.org/) — Uses local resources instead of downloaded ones from site, in case the site is distributing a form of malware
+  * [Canvas Defender](https://multiloginapp.com/canvasdefender-browser-extension/) — Protects your browser's canvas/rendering information
+  * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) — What it says on the tin
+  * [Terms of Service; Didn't Read](https://tosdr.org/) — Quick summary of sites' Terms of Service pros and cons 
 * Pretty Good Privacy (PGP) — Email encryption with public-key cryptography
 * [Tor Browser Bundle](https://www.torproject.org/) — Prevents any one from tracing this browser's website visits (if you're careful)
 * [Tails OS](https://tails.boum.org/) — Operating system that only operates in RAM and connects to the Internet through the Tor network
 * [Onion Share](https://onionshare.org/) — File sharing over the Tor Network
 * [Ghost Bin](https://ghostbin.com) — Encrypted pastebin service
-* [Veracrypt](https://www.veracrypt.fr/en/Home.html)
+* [Veracrypt](https://www.veracrypt.fr/en/Home.html) — Disk and file encryption utility
 
 ### Readings
 * [Surveillance Self-Defense](ssd.eff.org) by the EFF
