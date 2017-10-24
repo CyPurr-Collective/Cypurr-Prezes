@@ -3,7 +3,7 @@
 1. [Materials](#materials)
 2. [Resource](#resources)
 3. [Safer Spaces](#safer-spaces)
-4. [Posting](#posting)
+4. [Events](#Events)
 
 ## Materials
 This repo contains all our presentation materials that we've created for cryptoparties. They are:
@@ -67,10 +67,12 @@ We approach security as an emotional issue, not just a technical one. We want pe
 
 For concrete suggestions on how you can help create a safe space, we very much like the [Quiltbag++ Code of Conduct](https://github.com/quiltbagtech/whatisquiltbag/wiki/Code-of-Conduct-Draft).
 
-## Posting
+## Events
 We try to announce our events in the following places (some are repeats of above):
 * Our listserv (email cypurr@protonmail.com to join)
 * [Our facebook page](https://www.facebook.com/cypurr/)
 * EFF emails (like their EFFector listserv)
 * [CryptoParty website](https://www.cryptoparty.in)
 * [NYC Cryptoparty Meetup](https://www.meetup.com/New-York-Cryptoparty-Network/)
+
+(ɔ) CyPurr Collective. 
