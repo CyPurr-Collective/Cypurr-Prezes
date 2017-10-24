@@ -3,7 +3,7 @@
 1. [Materials](#materials)
 2. [Resource](#resources)
 3. [Safer Spaces](#safer-spaces)
-4. [Events](#Events)
+4. [Events](#events)
 
 ## Materials
 This repo contains all our presentation materials that we've created for cryptoparties. They are:
