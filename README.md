@@ -23,10 +23,11 @@ Updated as of 10/2017
   * [uBlock Origin](https://www.ublock.org/) — Ad Blocker
   * [Privacy Badger](https://www.eff.org/privacybadger) — Ad/Tracking Blocker
   * [HTTPS Everywhere](https://www.eff.org/https-everywhere) — Ensure encrypted website connection
-  * [Decentraleyes](https://decentraleyes.org/) — Uses local resources instead of downloaded ones from site, in case the site is distributing a form of malware
+  * [Decentraleyes](https://decentraleyes.org/) — Uses local resources instead of downloaded ones from sites you visit, in case the site is distributing a form of malware (intentionally or otherwise)
   * [Canvas Defender](https://multiloginapp.com/canvasdefender-browser-extension/) — Protects your browser's canvas/rendering information
   * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) — What it says on the tin
   * [Terms of Service; Didn't Read](https://tosdr.org/) — Quick summary of sites' Terms of Service pros and cons 
+* [Two-Factor Auth List](https://twofactorauth.org/) – Enormous list of sites that offer two-factor authentication for account sign-ins, which protects against identity and account theft
 * [Authy](https://authy.com/) / [Yubikey](https://www.yubico.com) — Both make two-factor authentication easier and more secure than SMS-texting codes
 * [Opt-out of Data Brokers](https://www.the-parallax.com/2016/04/07/how-to-clean-up-or-delete-data-brokers-profiles-of-you/) – Request data brokers scrub your entries from their records. A longer list is available [here](https://www.stopdatamining.me/opt-out-list/)
 * [Tor Browser Bundle](https://www.torproject.org/) — Prevents any one from tracing this browser's website visits (if you're careful)
