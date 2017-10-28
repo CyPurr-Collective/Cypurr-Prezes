@@ -28,6 +28,7 @@ Updated as of 10/2017
   * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) — What it says on the tin
   * [Terms of Service; Didn't Read](https://tosdr.org/) — Quick summary of sites' Terms of Service pros and cons 
 * [Authy](https://authy.com/) / [Yubikey](https://www.yubico.com) — Both make two-factor authentication easier and more secure than SMS-texting codes
+* [Opt-out of Data Brokers](https://www.the-parallax.com/2016/04/07/how-to-clean-up-or-delete-data-brokers-profiles-of-you/) – Request data brokers scrub your entries from their records. A longer list is available [here](https://www.stopdatamining.me/opt-out-list/)
 * [Tor Browser Bundle](https://www.torproject.org/) — Prevents any one from tracing this browser's website visits (if you're careful)
 * [Tails OS](https://tails.boum.org/) — Operating system that only operates in RAM and connects to the Internet through the Tor network
 * [Onion Share](https://onionshare.org/) — File sharing over the Tor Network
