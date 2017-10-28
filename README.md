@@ -17,6 +17,7 @@ Updated as of 10/2017
 ### Privacy Tools
 * [privacytools.io](https://www.privacytools.io/) — List of and recommendations for free privacy software
 * [Prism Break](https://prism-break.org/en/) — List of open-source software projects
+* [That One Privacy Site](https://thatoneprivacysite.net) — Analysis and comparison of the security/privacy of various email and VPN providers
 * [Diceware](https://www.eff.org/files/2016/07/18/eff_large_wordlist.txt) — Password generation list. An explanation of the EFF's improvements over the original Diceware file is [here](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases)
 * [KeePass](https://keepass.info/) / [KeePassX](https://www.keepassx.org/) — Password managers (they're very similar, just for different operating systems)
 * Browser Extensions: 
@@ -50,6 +51,7 @@ Updated as of 10/2017
 * [Panopticlick](panopticlick.eff.org) — Measures how trackable your browser is
 * [Map of US Govt. Data Collection/Sharing Programs](https://graphcommons.com/graphs/cd61d451-6726-46b3-85a5-9950797ec5d5)
 * [SHODAN](https://www.shodan.io/) — Search engine for unsecured Internet of Things devices
+* [That One Privacy Site](https://thatoneprivacysite.net) — Sortable table shows features to look for in email/VPN and how complicated that can be
 
 ### Guides for Workshops
 * [Holistic Security Trainer's Guide](https://holistic-security.tacticaltech.org/trainers-manual)
