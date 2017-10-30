@@ -53,6 +53,7 @@ Updated as of 10/2017
 * [SHODAN](https://www.shodan.io/) — Search engine for unsecured Internet of Things devices
 * [That One Privacy Site](https://thatoneprivacysite.net) — Sortable table shows features to look for in email/VPN and how complicated that can be
 * [CertCheck.me](https://cj1fp7eh.certcheck.me) — An interactive visualization that explains the different types of website certification cases and their consequences, created by the Tactical Tech Collective
+* [The Life of National Councillor Balthasar Glättli under Surveillance](https://www.digitale-gesellschaft.ch/dr.html) — A chronology and mapping of the one Swiss politican who volunteered his data
 
 ### Guides for Workshops
 * [Holistic Security Trainer's Guide](https://holistic-security.tacticaltech.org/trainers-manual)
