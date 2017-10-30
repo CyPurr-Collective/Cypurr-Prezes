@@ -48,10 +48,11 @@ Updated as of 10/2017
 
 ### Demonstration Tools
 * [HaveIBeenPwned](haveibeenpwned.org) — List of major database leaks that your email might have been in 
-* [Panopticlick](panopticlick.eff.org) — Measures how trackable your browser is
+* [Panopticlick](panopticlick.eff.org) — Site that measures how trackable your browser is
 * [Map of US Govt. Data Collection/Sharing Programs](https://graphcommons.com/graphs/cd61d451-6726-46b3-85a5-9950797ec5d5)
 * [SHODAN](https://www.shodan.io/) — Search engine for unsecured Internet of Things devices
 * [That One Privacy Site](https://thatoneprivacysite.net) — Sortable table shows features to look for in email/VPN and how complicated that can be
+* [CertCheck.me](https://cj1fp7eh.certcheck.me) — An interactive visualization that explains the different types of website certification cases and their consequences, created by the Tactical Tech Collective
 
 ### Guides for Workshops
 * [Holistic Security Trainer's Guide](https://holistic-security.tacticaltech.org/trainers-manual)
