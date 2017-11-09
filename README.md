@@ -44,7 +44,10 @@ Updated as of 10/2017
 * [Holistic Security](https://holistic-security.tacticaltech.org) by Tactical Tech Collective
 * [CryptoParty Handbook](https://www.cryptoparty.in/learn/handbook)
 * [Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php) by the Committee to Protect Journalists
+
+### Extra Credit Readings
 * [Networks of New York](https://www.mhpbooks.com/books/networks-of-new-york/) by Ingrid Burrington
+* [The Recompiler](https://recompilermag.com) — A feminist hacker magazine out of Portland that has a great collection of articles and book projects about digital privacy
 
 ### Demonstration Tools
 * [HaveIBeenPwned](haveibeenpwned.org) — List of major database leaks that your email might have been in 
@@ -54,6 +57,11 @@ Updated as of 10/2017
 * [That One Privacy Site](https://thatoneprivacysite.net) — Sortable table shows features to look for in email/VPN and how complicated that can be
 * [CertCheck.me](https://cj1fp7eh.certcheck.me) — An interactive visualization that explains the different types of website certification cases and their consequences, created by the Tactical Tech Collective
 * [The Life of National Councillor Balthasar Glättli under Surveillance](https://www.digitale-gesellschaft.ch/dr.html) — A chronology and mapping of the one Swiss politican who volunteered his data
+
+### Security Culture
+* [What is Security Culture?](https://issuu.com/sproutdistro/docs/zine-what_is_security_culture) — Zine compiled by the Sprout distro for activists 
+* [Dulles Rules](https://grugq.github.io/resources/Dulles%20on%20Tradecraft.pdf) — Rules of spycraft that can go just as well if you want to maintain privacy, for yourself and with others
+
 
 ### Guides for Workshops
 * [Holistic Security Trainer's Guide](https://holistic-security.tacticaltech.org/trainers-manual)
@@ -71,7 +79,7 @@ Updated as of 10/2017
 This section is very much TK, but a couple comments:
 We approach security as an emotional issue, not just a technical one. We want people at our workshops to come away with concrete steps they can take to make themselves be and feel safer, overall. To do that, we all need to be able to talk about our experiences, fears, and priorities freely. And that can only happen if people feel that they can say those things aloud without fear of getting shutdown or shamed for them, or that they will be recorded in some way that they did not expect. For those reasons, we will interrupt or stop any kind of speech that demeans another workshop attendee, which includes sexist, racist, transphobic, ableist, or technocratic language. We also ask journalists and researchers to refrain from taking photos or recording statements without getting the permission of the entire room first. 
 
-For concrete suggestions on how you can help create a safe space, we very much like the [Quiltbag++ Code of Conduct](https://github.com/quiltbagtech/whatisquiltbag/wiki/Code-of-Conduct-Draft).
+For concrete suggestions on how you can help create a safe space, we very much like the [Quiltbag++ Code of Conduct](https://github.com/quiltbagtech/whatisquiltbag/wiki/Code-of-Conduct-Draft). And some open source project folks like [The Contributor Covenant](https://www.contributor-covenant.org/).
 
 ## Events
 We try to announce our events in the following places (some are repeats of above):
