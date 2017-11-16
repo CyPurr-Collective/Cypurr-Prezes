@@ -48,6 +48,7 @@ Updated as of 10/2017
 ### Extra Credit Readings
 * [Networks of New York](https://www.mhpbooks.com/books/networks-of-new-york/) by Ingrid Burrington
 * [The Recompiler](https://recompilermag.com) — A feminist hacker magazine out of Portland that has a great collection of articles and book projects about digital privacy
+* [Critical Algorithm Studies Reading Guide](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/)
 
 ### Demonstration Tools
 * [HaveIBeenPwned](haveibeenpwned.org) — List of major database leaks that your email might have been in 
@@ -66,6 +67,7 @@ Updated as of 10/2017
 ### Guides for Workshops
 * [Holistic Security Trainer's Guide](https://holistic-security.tacticaltech.org/trainers-manual)
 * [Level-Up](https://www.level-up.cc/)
+* [Security Education Companion](https://sec.eff.org/)
 
 ### Other Digital Security Groups 
 * [Quiltbag](quiltbagtech.ny)
