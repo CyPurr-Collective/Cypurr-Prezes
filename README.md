@@ -1,7 +1,7 @@
 # CryptoParty
 ## Table of Contents
 1. [Materials](#materials)
-2. [Resource](#resources)
+2. [Resources](#resources)
 3. [Safer Spaces](#safer-spaces)
 4. [Events](#events)
 
@@ -12,7 +12,7 @@ This repo contains all our presentation materials that we've created for cryptop
 * Threat modeling powerpoint
 
 ## Resources 
-Updated as of 10/2017
+Updated as of 11/2017
 
 ### Privacy Tools
 * [privacytools.io](https://www.privacytools.io/) — List of and recommendations for free privacy software
@@ -44,33 +44,35 @@ Updated as of 10/2017
 * [Holistic Security](https://holistic-security.tacticaltech.org) by Tactical Tech Collective
 * [CryptoParty Handbook](https://www.cryptoparty.in/learn/handbook)
 * [Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php) by the Committee to Protect Journalists
+* [DIY Cybersecurity for Domestic Violence: A resource of privacy + compassion](https://hackblossom.org/domestic-violence/) y Hack * Blossom
 
 ### Extra Credit Readings
 * [Networks of New York](https://www.mhpbooks.com/books/networks-of-new-york/) by Ingrid Burrington
 * [The Recompiler](https://recompilermag.com) — A feminist hacker magazine out of Portland that has a great collection of articles and book projects about digital privacy
 * [Critical Algorithm Studies Reading Guide](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/)
 
-### Demonstration Tools
+### Workshop Demonstration Tools
 * [HaveIBeenPwned](haveibeenpwned.org) — List of major database leaks that your email might have been in 
 * [Panopticlick](panopticlick.eff.org) — Site that measures how trackable your browser is
 * [Map of US Govt. Data Collection/Sharing Programs](https://graphcommons.com/graphs/cd61d451-6726-46b3-85a5-9950797ec5d5)
 * [SHODAN](https://www.shodan.io/) — Search engine for unsecured Internet of Things devices
 * [That One Privacy Site](https://thatoneprivacysite.net) — Sortable table shows features to look for in email/VPN and how complicated that can be
 * [CertCheck.me](https://cj1fp7eh.certcheck.me) — An interactive visualization that explains the different types of website certification cases and their consequences, created by the Tactical Tech Collective
-* [The Life of National Councillor Balthasar Glättli under Surveillance](https://www.digitale-gesellschaft.ch/dr.html) — A chronology and mapping of the one Swiss politican who volunteered his data
+* [The Life of National Councillor Balthasar Glättli under Surveillance](https://www.digitale-gesellschaft.ch/dr.html) — A chronology and mapping of a Swiss politican who volunteered his data
 
 ### Security Culture
 * [What is Security Culture?](https://issuu.com/sproutdistro/docs/zine-what_is_security_culture) — Zine compiled by the Sprout distro for activists 
-* [Dulles Rules](https://grugq.github.io/resources/Dulles%20on%20Tradecraft.pdf) — Rules of spycraft that can go just as well if you want to maintain privacy, for yourself and with others
-
+* [Basics of Movement Security](https://www.leftwingbooks.net/book/content/basic-politics-movement-security) — Book created from the author's workshops. The phrase "movement" is vague here, but the book has a lot of specifics about "combating the 'political police' or state security agencies"
+* [Dulles Rules](https://grugq.github.io/resources/Dulles%20on%20Tradecraft.pdf) — Informal rules of spycraft for the US government. Interesting and odd
 
 ### Guides for Workshops
 * [Holistic Security Trainer's Guide](https://holistic-security.tacticaltech.org/trainers-manual)
 * [Level-Up](https://www.level-up.cc/)
 * [Security Education Companion](https://sec.eff.org/)
+* [CryptoFriends Trainer Resources](https://medium.com/cryptofriends/digital-security-training-resources-for-security-trainers-spring-2017-edition-e95d9e50065e) — A group of digital security trainers keeps this list updated to reflect guides/resources going out of date
 
 ### Other Digital Security Groups 
-* [Quiltbag](quiltbagtech.ny)
+* [Quiltbag++](quiltbagtech.ny)
 * [CryptoHarlem](https://www.facebook.com/cryptoharlem)
 * [Cryptoparty NYC](https://www.meetup.com/New-York-Cryptoparty-Network/)
 * [NYC Mesh](https://nycmesh.net/)
@@ -78,8 +80,8 @@ Updated as of 10/2017
 * [Electronic Frontier Alliance](https://www.eff.org/electronic-frontier-alliance)
 
 ## Safer Spaces <a name="safer-spaces"></a>
-This section is very much TK, but a couple comments:
-We approach security as an emotional issue, not just a technical one. We want people at our workshops to come away with concrete steps they can take to make themselves be and feel safer, overall. To do that, we all need to be able to talk about our experiences, fears, and priorities freely. And that can only happen if people feel that they can say those things aloud without fear of getting shutdown or shamed for them, or that they will be recorded in some way that they did not expect. For those reasons, we will interrupt or stop any kind of speech that demeans another workshop attendee, which includes sexist, racist, transphobic, ableist, or technocratic language. We also ask journalists and researchers to refrain from taking photos or recording statements without getting the permission of the entire room first. 
+This section is not a formal code of conduct, but a couple comments:
+We approach security as an emotional issue, not just a technical one. We want people at our workshops to come away with concrete steps they can take to make themselves be and feel safer, overall. To do that, we all need to be able to talk about our experiences, fears, and priorities freely. And that can only happen if people feel that they can speak without fear of getting shutdown or shamed for their concerns, or that they will be recorded in some way that they did not expect. For those reasons, we will interrupt or stop any kind of speech that demeans another workshop attendee, which includes sexist, racist, transphobic, ableist, or technocratic language. We also ask journalists and researchers to refrain from taking photos or recording audio without getting the permission of the entire room first. 
 
 For concrete suggestions on how you can help create a safe space, we very much like the [Quiltbag++ Code of Conduct](https://github.com/quiltbagtech/whatisquiltbag/wiki/Code-of-Conduct-Draft). And some open source project folks like [The Contributor Covenant](https://www.contributor-covenant.org/).
 
