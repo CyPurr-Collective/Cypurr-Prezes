@@ -12,7 +12,7 @@ This repo contains all our presentation materials that we've created for cryptop
 * Threat modeling powerpoint
 
 ## Resources 
-Updated as of 11/2017
+Updated as of 1/2018
 
 ### Privacy Tools
 * [privacytools.io](https://www.privacytools.io/) — List of and recommendations for free privacy software
@@ -44,7 +44,7 @@ Updated as of 11/2017
 * [Holistic Security](https://holistic-security.tacticaltech.org) by Tactical Tech Collective
 * [CryptoParty Handbook](https://www.cryptoparty.in/learn/handbook)
 * [Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php) by the Committee to Protect Journalists
-* [DIY Cybersecurity for Domestic Violence: A resource of privacy + compassion](https://hackblossom.org/domestic-violence/) y Hack * Blossom
+* [DIY Cybersecurity for Domestic Violence: A resource of privacy + compassion](https://hackblossom.org/domestic-violence/) by Hack * Blossom
 
 ### Extra Credit Readings
 * [Networks of New York](https://www.mhpbooks.com/books/networks-of-new-york/) by Ingrid Burrington
@@ -70,6 +70,7 @@ Updated as of 11/2017
 * [Level-Up](https://www.level-up.cc/)
 * [Security Education Companion](https://sec.eff.org/)
 * [CryptoFriends Trainer Resources](https://medium.com/cryptofriends/digital-security-training-resources-for-security-trainers-spring-2017-edition-e95d9e50065e) — A group of digital security trainers keeps this list updated to reflect guides/resources going out of date
+* [Digital Privacy Project](https://dataprivacyproject.org/) — Teaches NYC librarians how to answer privacy questions and map concerns of patrons. Also has collection of curriculum materials
 
 ### Other Digital Security Groups 
 * [Quiltbag++](quiltbagtech.ny)
