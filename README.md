@@ -44,12 +44,15 @@ Updated as of 1/2018
 * [Holistic Security](https://holistic-security.tacticaltech.org) by Tactical Tech Collective
 * [CryptoParty Handbook](https://www.cryptoparty.in/learn/handbook)
 * [Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php) by the Committee to Protect Journalists
+* [Exposing the Invisible](https://exposingtheinvisible.org/)
+* [Speaking Securely With Sources Guide](https://source.opennews.org/guides/speaking-securely-sources/)
 * [DIY Cybersecurity for Domestic Violence: A resource of privacy + compassion](https://hackblossom.org/domestic-violence/) by Hack * Blossom
 
 ### Extra Credit Readings
 * [Networks of New York](https://www.mhpbooks.com/books/networks-of-new-york/) by Ingrid Burrington
 * [The Recompiler](https://recompilermag.com) — A feminist hacker magazine out of Portland that has a great collection of articles and book projects about digital privacy
 * [Critical Algorithm Studies Reading Guide](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/)
+* [Our Data, Our Selves](https://ourdataourselves.tacticaltech.org/) by Tactical Tech Collective
 
 ### Workshop Demonstration Tools
 * [HaveIBeenPwned](haveibeenpwned.org) — List of major database leaks that your email might have been in 
@@ -84,7 +87,7 @@ Updated as of 1/2018
 This section is not a formal code of conduct, but a couple comments:
 We approach security as an emotional issue, not just a technical one. We want people at our workshops to come away with concrete steps they can take to make themselves be and feel safer, overall. To do that, we all need to be able to talk about our experiences, fears, and priorities freely. And that can only happen if people feel that they can speak without fear of getting shutdown or shamed for their concerns, or that they will be recorded in some way that they did not expect. For those reasons, we will interrupt or stop any kind of speech that demeans another workshop attendee, which includes sexist, racist, transphobic, ableist, or technocratic language. We also ask journalists and researchers to refrain from taking photos or recording audio without getting the permission of the entire room first. 
 
-For concrete suggestions on how you can help create a safe space, we very much like the [Quiltbag++ Code of Conduct](https://github.com/quiltbagtech/whatisquiltbag/wiki/Code-of-Conduct-Draft). And some open source project folks like [The Contributor Covenant](https://www.contributor-covenant.org/).
+For concrete suggestions on how you can help create a safe space, we very much like the [Quiltbag++ Code of Conduct](https://github.com/quiltbagtech/whatisquiltbag/wiki/Code-of-Conduct-Draft) and [The Recurse Center User Manual](https://www.recurse.com/manual). And some open source project folks like [The Contributor Covenant](https://www.contributor-covenant.org/).
 
 ## Events
 We try to announce our events in the following places (some are repeats of above):
