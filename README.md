@@ -19,7 +19,7 @@ Updated as of 1/2018
 * [Prism Break](https://prism-break.org/en/) — List of open-source software projects
 * [That One Privacy Site](https://thatoneprivacysite.net) — Analysis and comparison of the security/privacy of various email and VPN providers
 * [Diceware](https://www.eff.org/files/2016/07/18/eff_large_wordlist.txt) — Password generation list. An explanation of the EFF's improvements over the original Diceware file is [here](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases)
-* [KeePass](https://keepass.info/) / [KeePassX](https://www.keepassx.org/) — Password managers (they're very similar, just for different operating systems)
+* [KeePass](https://keepass.info/) / [KeePassXC](https://www.keepassxc.org/) — Password managers (they're very similar, just for different operating systems)
 * Browser Extensions: 
   * [uBlock Origin](https://www.ublock.org/) — Ad Blocker
   * [Privacy Badger](https://www.eff.org/privacybadger) — Ad/Tracking Blocker
@@ -27,7 +27,8 @@ Updated as of 1/2018
   * [Decentraleyes](https://decentraleyes.org/) — Uses local resources instead of downloaded ones from sites you visit, in case the site is distributing a form of malware (intentionally or otherwise)
   * [Canvas Defender](https://multiloginapp.com/canvasdefender-browser-extension/) — Protects your browser's canvas/rendering information
   * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) — What it says on the tin
-  * [Terms of Service; Didn't Read](https://tosdr.org/) — Quick summary of sites' Terms of Service pros and cons 
+  * [Protect Your Choices](https://youradchoices.ca/choices/protect-my-choices/) — Automatically opts you out of interest-based advertising from members of the Digital Advertising Alliance. Kind of like "Do Not Track" browser setting
+  * [Terms of Service; Didn't Read](https://tosdr.org/) — Displays quick summary of sites' Terms of Service pros and cons 
 * [Two-Factor Auth List](https://twofactorauth.org/) – Enormous list of sites that offer two-factor authentication for account sign-ins, which protects against identity and account theft
 * [Authy](https://authy.com/) / [Yubikey](https://www.yubico.com) — Both make two-factor authentication easier and more secure than SMS-texting codes
 * [Opt-out of Data Brokers](https://www.the-parallax.com/2016/04/07/how-to-clean-up-or-delete-data-brokers-profiles-of-you/) – Request data brokers scrub your entries from their records. A longer list is available [here](https://www.stopdatamining.me/opt-out-list/)
