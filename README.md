@@ -2,8 +2,9 @@
 ## Table of Contents
 1. [Materials](#materials)
 2. [Resources](#resources)
-2a. [Privacy Tools](#privacy-tools)
-2b. [Guides](#guides)
+*  [Privacy Tools](#privacy-tools)
+*  [Guides](#guides)
+*  [Workshop Demonstration Tools](#workshop-demonstration-tools)
 3. [Safer Spaces](#safer-spaces)
 4. [Events](#events)
 
