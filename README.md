@@ -2,6 +2,8 @@
 ## Table of Contents
 1. [Materials](#materials)
 2. [Resources](#resources)
+2a. [Privacy Tools](#privacy-tools)
+2b. [Guides](#guides)
 3. [Safer Spaces](#safer-spaces)
 4. [Events](#events)
 
@@ -12,7 +14,7 @@ This repo contains all our presentation materials that we've created for cryptop
 * Threat modeling powerpoint
 
 ## Resources 
-Updated as of 1/2018
+Updated as of 02/2018
 
 ### Privacy Tools
 * [privacytools.io](https://www.privacytools.io/) — List of and recommendations for free privacy software
@@ -40,21 +42,42 @@ Updated as of 1/2018
 * Pretty Good Privacy (PGP) — Email encryption with public-key cryptography
 * [Let's Encrypt](https://letsencrypt.org/) — Free site certificate authority
 
-### Readings
+### Guides
+#### *General*
 * [Surveillance Self-Defense](ssd.eff.org) by the EFF
 * [Security in a Box](https://securityinabox.org/en/) by Tactical Tech Collective
 * [Holistic Security](https://holistic-security.tacticaltech.org) by Tactical Tech Collective
 * [CryptoParty Handbook](https://www.cryptoparty.in/learn/handbook)
-* [Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php) by the Committee to Protect Journalists
-* [Exposing the Invisible](https://exposingtheinvisible.org/)
-* [Speaking Securely With Sources Guide](https://source.opennews.org/guides/speaking-securely-sources/)
-* [DIY Cybersecurity for Domestic Violence: A resource of privacy + compassion](https://hackblossom.org/domestic-violence/) by Hack * Blossom
+* [Exposing the Invisible](https://exposingtheinvisible.org/) on metadata and its collection/erasure
 
-### Extra Credit Readings
+#### *Journalists*
+* [Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php) by the Committee to Protect Journalists
+* [Speaking Securely With Sources Guide](https://source.opennews.org/guides/speaking-securely-sources/)
+
+#### *Digital Harassment / Doxxing*
+* [DIY Cybersecurity for Domestic Violence: A resource of privacy + compassion](https://hackblossom.org/domestic-violence/) by Hack * Blossom
+* [Crash Override Resource Center](http://www.crashoverridenetwork.com/resources.html) — Guide for preventation and harm reduction of digital harassment, as well as help line
+* [HeartMob](https://iheartmob.org/) — Network to provide support of all kinds to anyone being doxxed/trolled/harassed online
+* [#GamerGate Survival Guide](https://www.jonjones.com/2014/10/02/gamergate-survival-guide/)
+
+#### *Security Culture*
+* [What is Security Culture?](https://issuu.com/sproutdistro/docs/zine-what_is_security_culture) — Zine compiled by the Sprout distro for activists 
+* [Basics of Movement Security](https://www.leftwingbooks.net/book/content/basic-politics-movement-security) — Book created from the author's workshops. The phrase "movement" is vague here, but the book has a lot of specifics about "combating the 'political police' or state security agencies"
+* [Dulles Rules](https://grugq.github.io/resources/Dulles%20on%20Tradecraft.pdf) — Informal rules of spycraft for the US government. Interesting and odd
+
+ #### *On Planning Cryptoparties/workshops*
+* [Holistic Security Trainer's Guide](https://holistic-security.tacticaltech.org/trainers-manual)
+* [Level-Up](https://www.level-up.cc/)
+* [Security Education Companion](https://sec.eff.org/)
+* [CryptoFriends Trainer Resources](https://medium.com/cryptofriends/digital-security-training-resources-for-security-trainers-spring-2017-edition-e95d9e50065e) — A group of digital security trainers keeps this list updated to reflect guides/resources going out of date
+* [Digital Privacy Project](https://dataprivacyproject.org/) — Teaches NYC librarians how to answer privacy questions and map concerns of patrons. Also has collection of curriculum materials
+
+ #### *Extra Credit*
 * [Networks of New York](https://www.mhpbooks.com/books/networks-of-new-york/) by Ingrid Burrington
 * [The Recompiler](https://recompilermag.com) — A feminist hacker magazine out of Portland that has a great collection of articles and book projects about digital privacy
 * [Critical Algorithm Studies Reading Guide](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/)
 * [Our Data, Our Selves](https://ourdataourselves.tacticaltech.org/) by Tactical Tech Collective
+* [Online Harassment, Digital Abuse, and Cyberstalking in America](www.datasociety.net/pubs/oh/Online_Harassment_2016.pdf) by Data & Society
 
 ### Workshop Demonstration Tools
 * [HaveIBeenPwned](haveibeenpwned.org) — List of major database leaks that your email might have been in 
@@ -64,18 +87,6 @@ Updated as of 1/2018
 * [That One Privacy Site](https://thatoneprivacysite.net) — Sortable table shows features to look for in email/VPN and how complicated that can be
 * [CertCheck.me](https://cj1fp7eh.certcheck.me) — An interactive visualization that explains the different types of website certification cases and their consequences, created by the Tactical Tech Collective
 * [The Life of National Councillor Balthasar Glättli under Surveillance](https://www.digitale-gesellschaft.ch/dr.html) — A chronology and mapping of a Swiss politican who volunteered his data
-
-### Security Culture
-* [What is Security Culture?](https://issuu.com/sproutdistro/docs/zine-what_is_security_culture) — Zine compiled by the Sprout distro for activists 
-* [Basics of Movement Security](https://www.leftwingbooks.net/book/content/basic-politics-movement-security) — Book created from the author's workshops. The phrase "movement" is vague here, but the book has a lot of specifics about "combating the 'political police' or state security agencies"
-* [Dulles Rules](https://grugq.github.io/resources/Dulles%20on%20Tradecraft.pdf) — Informal rules of spycraft for the US government. Interesting and odd
-
-### Guides for Workshops
-* [Holistic Security Trainer's Guide](https://holistic-security.tacticaltech.org/trainers-manual)
-* [Level-Up](https://www.level-up.cc/)
-* [Security Education Companion](https://sec.eff.org/)
-* [CryptoFriends Trainer Resources](https://medium.com/cryptofriends/digital-security-training-resources-for-security-trainers-spring-2017-edition-e95d9e50065e) — A group of digital security trainers keeps this list updated to reflect guides/resources going out of date
-* [Digital Privacy Project](https://dataprivacyproject.org/) — Teaches NYC librarians how to answer privacy questions and map concerns of patrons. Also has collection of curriculum materials
 
 ### Other Digital Security Groups 
 * [Quiltbag++](quiltbagtech.ny)
