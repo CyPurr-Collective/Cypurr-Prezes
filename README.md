@@ -38,6 +38,7 @@ Updated as of 1/2018
 * [Ghost Bin](https://ghostbin.com) — Encrypted pastebin service
 * [Veracrypt](https://www.veracrypt.fr/en/Home.html) — Disk and file encryption utility
 * Pretty Good Privacy (PGP) — Email encryption with public-key cryptography
+* [Let's Encrypt](https://letsencrypt.org/) — Free site certificate authority
 
 ### Readings
 * [Surveillance Self-Defense](ssd.eff.org) by the EFF
