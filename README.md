@@ -50,6 +50,7 @@ Updated as of 02/2018
 * [Holistic Security](https://holistic-security.tacticaltech.org) by Tactical Tech Collective
 * [CryptoParty Handbook](https://www.cryptoparty.in/learn/handbook)
 * [Exposing the Invisible](https://exposingtheinvisible.org/) on metadata and its collection/erasure
+* [The Hand-Book of the Modern Development Specialist: Being a Complete Illustrated Guide to Responsible Data Usage, Manners & General Deportment](http://responsibledata.io/resources/handbook/) by The Engine Room. For groups and researchers that want to collect, use, and store data responsibly
 
 #### *Journalists*
 * [Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php) by the Committee to Protect Journalists
@@ -66,7 +67,7 @@ Updated as of 02/2018
 * [Basics of Movement Security](https://www.leftwingbooks.net/book/content/basic-politics-movement-security) — Book created from the author's workshops. The phrase "movement" is vague here, but the book has a lot of specifics about "combating the 'political police' or state security agencies"
 * [Dulles Rules](https://grugq.github.io/resources/Dulles%20on%20Tradecraft.pdf) — Informal rules of spycraft for the US government. Interesting and odd
 
- #### *On Planning Cryptoparties/workshops*
+ #### *On Planning Cryptoparties/Workshops*
 * [Holistic Security Trainer's Guide](https://holistic-security.tacticaltech.org/trainers-manual)
 * [Level-Up](https://www.level-up.cc/)
 * [Security Education Companion](https://sec.eff.org/)
