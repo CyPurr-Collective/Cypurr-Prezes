@@ -74,12 +74,13 @@ Updated as of 02/2018
 * [CryptoFriends Trainer Resources](https://medium.com/cryptofriends/digital-security-training-resources-for-security-trainers-spring-2017-edition-e95d9e50065e) — A group of digital security trainers keeps this list updated to reflect guides/resources going out of date
 * [Digital Privacy Project](https://dataprivacyproject.org/) — Teaches NYC librarians how to answer privacy questions and map concerns of patrons. Also has collection of curriculum materials
 
- #### *Extra Credit*
+ #### *Readings*
 * [Networks of New York](https://www.mhpbooks.com/books/networks-of-new-york/) by Ingrid Burrington
 * [The Recompiler](https://recompilermag.com) — A feminist hacker magazine out of Portland that has a great collection of articles and book projects about digital privacy
 * [Critical Algorithm Studies Reading Guide](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/)
 * [Our Data, Our Selves](https://ourdataourselves.tacticaltech.org/) by Tactical Tech Collective
 * [Online Harassment, Digital Abuse, and Cyberstalking in America](www.datasociety.net/pubs/oh/Online_Harassment_2016.pdf) by Data & Society
+* [Indigenous peoples and responsible data: an introductory reading list](https://responsibledata.io/2017/09/22/indigenous-peoples-responsible-data-readings/)
 
 ### Workshop Demonstration Tools
 * [HaveIBeenPwned](haveibeenpwned.org) — List of major database leaks that your email might have been in 
