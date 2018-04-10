@@ -26,12 +26,14 @@ Updated as of 02/2018
 * Browser Extensions: 
   * [uBlock Origin](https://www.ublock.org/) — Ad Blocker
   * [Privacy Badger](https://www.eff.org/privacybadger) — Ad/Tracking Blocker
+  * [uMatrix](https://github.com/gorhill/uMatrix) — Advanced ad/tracker blocker from the maker of uBlock. Steep learning curve but maximum control.
   * [HTTPS Everywhere](https://www.eff.org/https-everywhere) — Ensure encrypted website connection
   * [Decentraleyes](https://decentraleyes.org/) — Uses local resources instead of downloaded ones from sites you visit, in case the site is distributing a form of malware (intentionally or otherwise)
   * [Canvas Defender](https://multiloginapp.com/canvasdefender-browser-extension/) — Protects your browser's canvas/rendering information
   * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) — What it says on the tin
   * [Protect Your Choices](https://youradchoices.ca/choices/protect-my-choices/) — Automatically opts you out of interest-based advertising from members of the Digital Advertising Alliance. Kind of like "Do Not Track" browser setting
-  * [Terms of Service; Didn't Read](https://tosdr.org/) — Displays quick summary of sites' Terms of Service pros and cons 
+  * [Terms of Service; Didn't Read](https://tosdr.org/) — Displays quick summary of sites' Terms of Service pros and cons
+  * [DuckDuckGo Privacy Essentials ](https://spreadprivacy.com/privacy-simplified/) — Simple extension providing HTTPS encryption, tracker blocking, and a "Terms of Service;Didn't Read" summary.
 * [Two-Factor Auth List](https://twofactorauth.org/) – Enormous list of sites that offer two-factor authentication for account sign-ins, which protects against identity and account theft
 * [Authy](https://authy.com/) / [Yubikey](https://www.yubico.com) — Both make two-factor authentication easier and more secure than SMS-texting codes
 * [Opt-out of Data Brokers](https://www.the-parallax.com/2016/04/07/how-to-clean-up-or-delete-data-brokers-profiles-of-you/) – Request data brokers scrub your entries from their records. A longer list is available [here](https://www.stopdatamining.me/opt-out-list/)
@@ -55,6 +57,7 @@ Updated as of 02/2018
 #### *Journalists*
 * [Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php) by the Committee to Protect Journalists
 * [Speaking Securely With Sources Guide](https://source.opennews.org/guides/speaking-securely-sources/)
+* [Freedom of the Press Foundation](https://freedom.press/)
 
 #### *Digital Harassment / Doxxing*
 * [DIY Cybersecurity for Domestic Violence: A resource of privacy + compassion](https://hackblossom.org/domestic-violence/) by Hack * Blossom
