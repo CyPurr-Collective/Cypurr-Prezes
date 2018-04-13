@@ -10,9 +10,9 @@
 
 ## Materials
 This repo contains all our presentation materials that we've created for cryptoparties. They are:
-* General info sheet
-* PGP set-up guide
-* Threat modeling powerpoint
+* Powerpoint presentations for various cryptoparty topics
+* Handouts and PGP set-up guide
+* This list!
 
 ## Resources 
 Updated as of 02/2018
