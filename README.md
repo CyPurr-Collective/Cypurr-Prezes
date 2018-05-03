@@ -70,7 +70,7 @@ Updated as of 02/2018
 * [Basics of Movement Security](https://www.leftwingbooks.net/book/content/basic-politics-movement-security) — Book created from the author's workshops. The phrase "movement" is vague here, but the book has a lot of specifics about "combating the 'political police' or state security agencies"
 * [Dulles Rules](https://grugq.github.io/resources/Dulles%20on%20Tradecraft.pdf) — Informal rules of spycraft for the US government. Interesting and odd
 
- #### *On Planning Cryptoparties/Workshops*
+ #### *On Planning Cryptoparties / Workshops*
 * [Holistic Security Trainer's Guide](https://holistic-security.tacticaltech.org/trainers-manual)
 * [Level-Up](https://www.level-up.cc/)
 * [Security Education Companion](https://sec.eff.org/)
@@ -95,12 +95,14 @@ Updated as of 02/2018
 * [The Life of National Councillor Balthasar Glättli under Surveillance](https://www.digitale-gesellschaft.ch/dr.html) — A chronology and mapping of a Swiss politican who volunteered his data
 
 ### Other Digital Security Groups 
-* [Quiltbag++](quiltbagtech.ny)
+
 * [CryptoHarlem](https://www.facebook.com/cryptoharlem)
 * [Cryptoparty NYC](https://www.meetup.com/New-York-Cryptoparty-Network/)
 * [NYC Mesh](https://nycmesh.net/)
 * [NYC Resistor](https://www.nycresistor.com/)
 * [Electronic Frontier Alliance](https://www.eff.org/electronic-frontier-alliance)
+* [Hack * Blossom](https://hackblossom.org/) 
+* [Quiltbag++](quiltbagtech.ny) (defunct?)
 
 ## Safer Spaces <a name="safer-spaces"></a>
 This section is not a formal code of conduct, but a couple comments:
@@ -111,7 +113,8 @@ For concrete suggestions on how you can help create a safe space, we very much l
 ## Events
 We try to announce our events in the following places (some are repeats of above):
 * Our listserv (email cypurr@protonmail.com to join)
-* [Our facebook page](https://www.facebook.com/cypurr/)
+* [Facebook](https://www.facebook.com/cypurr/)
+* [@cypurrnyc twitter](https://twitter.com/cypurrnyc)
 * EFF emails (like their EFFector listserv)
 * [CryptoParty website](https://www.cryptoparty.in)
 * [NYC Cryptoparty Meetup](https://www.meetup.com/New-York-Cryptoparty-Network/)
