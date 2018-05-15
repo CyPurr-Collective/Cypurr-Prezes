@@ -32,7 +32,7 @@ Updated as of 02/2018
   * [Canvas Defender](https://multiloginapp.com/canvasdefender-browser-extension/) — Protects your browser's canvas/rendering information
   * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) — What it says on the tin
   * [Protect Your Choices](https://youradchoices.ca/choices/protect-my-choices/) — Automatically opts you out of interest-based advertising from members of the Digital Advertising Alliance. Kind of like "Do Not Track" browser setting
-  * [Terms of Service; Didn't Read](https://tosdr.org/) — Displays quick summary of sites' Terms of Service pros and cons
+  * [Terms of Service; Didn't Read](https://tosdr.org/) — Outdated text, but under development. Displays quick summary of sites' Terms of Service pros and cons
   * [DuckDuckGo Privacy Essentials ](https://spreadprivacy.com/privacy-simplified/) — Simple extension providing HTTPS encryption, tracker blocking, and a "Terms of Service;Didn't Read" summary.
 * [Two-Factor Auth List](https://twofactorauth.org/) – Enormous list of sites that offer two-factor authentication for account sign-ins, which protects against identity and account theft
 * [Authy](https://authy.com/) / [Yubikey](https://www.yubico.com) — Both make two-factor authentication easier and more secure than SMS-texting codes
