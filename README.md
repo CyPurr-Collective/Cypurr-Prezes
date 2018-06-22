@@ -43,8 +43,8 @@ Updated as of 06/2018
 * [Ghost Bin](https://ghostbin.com) — Encrypted pastebin service
 * [Veracrypt](https://www.veracrypt.fr/en/Home.html) — Disk and file encryption utility
 * Pretty Good Privacy (PGP) — Email encryption with public-key cryptography:
- * [Enigmail](https://www.enigmail.net/index.php/en/) — Thunderbird add-on for implementing PGP
- * [Mailvelope](https://www.mailvelope.com/en/) — Browser add-on for PGP with webmail clients (like Gmail, Outlook)
+  * [Enigmail](https://www.enigmail.net/index.php/en/) — Thunderbird add-on for implementing PGP
+  * [Mailvelope](https://www.mailvelope.com/en/) — Browser add-on for PGP with webmail clients (like Gmail, Outlook)
 * [Let's Encrypt](https://letsencrypt.org/) — Free site certificate authority
 
 ### Guides
