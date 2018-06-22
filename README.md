@@ -15,7 +15,7 @@ This repo contains all our presentation materials that we've created for cryptop
 * This list!
 
 ## Resources 
-Updated as of 02/2018
+Updated as of 06/2018
 
 ### Privacy Tools
 * [privacytools.io](https://www.privacytools.io/) — List of and recommendations for free privacy software
@@ -42,7 +42,9 @@ Updated as of 02/2018
 * [Onion Share](https://onionshare.org/) — File sharing over the Tor Network
 * [Ghost Bin](https://ghostbin.com) — Encrypted pastebin service
 * [Veracrypt](https://www.veracrypt.fr/en/Home.html) — Disk and file encryption utility
-* Pretty Good Privacy (PGP) — Email encryption with public-key cryptography
+* Pretty Good Privacy (PGP) — Email encryption with public-key cryptography:
+ * [Enigmail](https://www.enigmail.net/index.php/en/) — Thunderbird add-on for implementing PGP
+ * [Mailvelope](https://www.mailvelope.com/en/) — Browser add-on for PGP with webmail clients (like Gmail, Outlook)
 * [Let's Encrypt](https://letsencrypt.org/) — Free site certificate authority
 
 ### Guides
@@ -102,6 +104,8 @@ Updated as of 02/2018
 * [NYC Resistor](https://www.nycresistor.com/)
 * [Electronic Frontier Alliance](https://www.eff.org/electronic-frontier-alliance)
 * [Hack * Blossom](https://hackblossom.org/) 
+* [t4tech](https://www.meetup.com/tr-TR/t4tech-Free-Coding-Workshop-for-Trans-Folks/?_cookie-check=8yq1RnfnRY2JWn0d) 
+* [AnarchoTech NYC](https://github.com/AnarchoTechNYC/meta)
 * [Quiltbag++](quiltbagtech.ny) (defunct?)
 
 ## Safer Spaces <a name="safer-spaces"></a>
