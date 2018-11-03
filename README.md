@@ -10,7 +10,8 @@
 
 ## Materials
 This repo contains all our presentation materials that we've created for cryptoparties. They are:
-* Powerpoint presentations for various cryptoparty topics
+* Powerpoint presentations for various cryptoparty topics--in the Powerpoints folder.
+* HTML slides for most of the above topics--also in the Powerpoints folder.
 * Handouts and PGP set-up guide
 * This list!
 
