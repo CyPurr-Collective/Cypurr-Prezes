@@ -34,11 +34,11 @@ Updated as of 06/2018
   * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) — What it says on the tin
   * [Protect Your Choices](https://youradchoices.ca/choices/protect-my-choices/) — Automatically opts you out of interest-based advertising from members of the Digital Advertising Alliance. Kind of like "Do Not Track" browser setting
   * [Terms of Service; Didn't Read](https://tosdr.org/) — Outdated text, but under development. Displays quick summary of sites' Terms of Service pros and cons
-  * [DuckDuckGo Privacy Essentials ](https://spreadprivacy.com/privacy-simplified/) — Simple extension providing HTTPS encryption, tracker blocking, and a "Terms of Service;Didn't Read" summary.
+  * [DuckDuckGo Privacy Essentials ](https://duckduckgo.com/app) — Simple extension/app providing HTTPS encryption, tracker blocking, and a "Terms of Service;Didn't Read" summary.
 * [Two-Factor Auth List](https://twofactorauth.org/) – Enormous list of sites that offer two-factor authentication for account sign-ins, which protects against identity and account theft
 * [Authy](https://authy.com/) / [Yubikey](https://www.yubico.com) — Both make two-factor authentication easier and more secure than SMS-texting codes
-* [Opt-out of Data Brokers](https://www.the-parallax.com/2016/04/07/how-to-clean-up-or-delete-data-brokers-profiles-of-you/) – Request data brokers scrub your entries from their records. A longer list is available [here](https://www.stopdatamining.me/opt-out-list/)
-* [Tor Browser Bundle](https://www.torproject.org/) — Prevents any one from tracing this browser's website visits (if you're careful)
+* [Opt-out of Data Brokers](https://www.the-parallax.com/2016/04/07/how-to-clean-up-or-delete-data-brokers-profiles-of-you/) (Even longer list is available [here](https://www.stopdatamining.me/opt-out-list/) – Request data brokers scrub your entries from their records
+* [Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html.en) — Prevents any one from tracing this browser's website visits (if you're careful)
 * [Tails OS](https://tails.boum.org/) — Operating system that only operates in RAM and connects to the Internet through the Tor network
 * [Onion Share](https://onionshare.org/) — File sharing over the Tor Network
 * [Ghost Bin](https://ghostbin.com) — Encrypted pastebin service
@@ -50,7 +50,7 @@ Updated as of 06/2018
 
 ### Guides
 #### *General*
-* [Surveillance Self-Defense](ssd.eff.org) by the EFF
+* [Surveillance Self-Defense](https://ssd.eff.org/) by the EFF
 * [Security in a Box](https://securityinabox.org/en/) by Tactical Tech Collective
 * [Holistic Security](https://holistic-security.tacticaltech.org) by Tactical Tech Collective
 * [CryptoParty Handbook](https://www.cryptoparty.in/learn/handbook)
@@ -77,7 +77,6 @@ Updated as of 06/2018
 * [Holistic Security Trainer's Guide](https://holistic-security.tacticaltech.org/trainers-manual)
 * [Level-Up](https://www.level-up.cc/)
 * [Security Education Companion](https://sec.eff.org/)
-* [CryptoFriends Trainer Resources](https://medium.com/cryptofriends/digital-security-training-resources-for-security-trainers-spring-2017-edition-e95d9e50065e) — A group of digital security trainers keeps this list updated to reflect guides/resources going out of date
 * [Digital Privacy Project](https://dataprivacyproject.org/) — Teaches NYC librarians how to answer privacy questions and map concerns of patrons. Also has collection of curriculum materials
 
  #### *Readings*
@@ -85,16 +84,15 @@ Updated as of 06/2018
 * [The Recompiler](https://recompilermag.com) — A feminist hacker magazine out of Portland that has a great collection of articles and book projects about digital privacy
 * [Critical Algorithm Studies Reading Guide](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/)
 * [Our Data, Our Selves](https://ourdataourselves.tacticaltech.org/) by Tactical Tech Collective
-* [Online Harassment, Digital Abuse, and Cyberstalking in America](www.datasociety.net/pubs/oh/Online_Harassment_2016.pdf) by Data & Society
+* [Online Harassment, Digital Abuse, and Cyberstalking in America](https://www.datasociety.net/pubs/oh/Online_Harassment_2016.pdf) by Data & Society
 * [Indigenous peoples and responsible data: an introductory reading list](https://responsibledata.io/2017/09/22/indigenous-peoples-responsible-data-readings/)
 
 ### Workshop Demonstration Tools
-* [HaveIBeenPwned](haveibeenpwned.org) — List of major database leaks that your email might have been in 
-* [Panopticlick](panopticlick.eff.org) — Site that measures how trackable your browser is
+* [HaveIBeenPwned](https://haveibeenpwned.com/) — List of major database attacks that might have leaked your email 
+* [Panopticlick](https://panopticlick.eff.org/) — Site that measures how trackable your browser is
 * [Map of US Govt. Data Collection/Sharing Programs](https://graphcommons.com/graphs/cd61d451-6726-46b3-85a5-9950797ec5d5)
 * [SHODAN](https://www.shodan.io/) — Search engine for unsecured Internet of Things devices
 * [That One Privacy Site](https://thatoneprivacysite.net) — Sortable table shows features to look for in email/VPN and how complicated that can be
-* [CertCheck.me](https://cj1fp7eh.certcheck.me) — An interactive visualization that explains the different types of website certification cases and their consequences, created by the Tactical Tech Collective
 * [The Life of National Councillor Balthasar Glättli under Surveillance](https://www.digitale-gesellschaft.ch/dr.html) — A chronology and mapping of a Swiss politican who volunteered his data
 
 ### Other Digital Security Groups 
@@ -104,10 +102,10 @@ Updated as of 06/2018
 * [NYC Mesh](https://nycmesh.net/)
 * [NYC Resistor](https://www.nycresistor.com/)
 * [Electronic Frontier Alliance](https://www.eff.org/electronic-frontier-alliance)
-* [Hack * Blossom](https://hackblossom.org/) 
+* [Hack * Blossom](https://hackblossom.org/) (on hiatus)
 * [t4tech](https://www.meetup.com/tr-TR/t4tech-Free-Coding-Workshop-for-Trans-Folks/?_cookie-check=8yq1RnfnRY2JWn0d) 
 * [AnarchoTech NYC](https://github.com/AnarchoTechNYC/meta)
-* [Quiltbag++](quiltbagtech.ny) (defunct?)
+* [Quiltbag++](quiltbagtech.ny) (on hiatus)
 
 ## Safer Spaces <a name="safer-spaces"></a>
 This section is not a formal code of conduct, but a couple comments:
