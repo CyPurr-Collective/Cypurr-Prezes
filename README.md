@@ -67,7 +67,7 @@ Updated as of 06/2018
 * [Crash Override Resource Center](http://www.crashoverridenetwork.com/resources.html) — Guide for preventation and harm reduction of digital harassment, as well as help line
 * [HeartMob](https://iheartmob.org/) — Network to provide support of all kinds to anyone being doxxed/trolled/harassed online
 * [#GamerGate Survival Guide](https://www.jonjones.com/2014/10/02/gamergate-survival-guide/)
-* [Non-consensual Pornography](https://acoso.online/en/)
+* [Non-consensual Pornography](https://acoso.online/en/) — emphasis on self-protection in South American countries 
 
 #### *Security Culture*
 * [What is Security Culture?](https://issuu.com/sproutdistro/docs/zine-what_is_security_culture) — Zine compiled by the Sprout distro for activists 
