@@ -100,6 +100,7 @@ Updated as of 06/2018
 
 * [CryptoHarlem](https://www.facebook.com/cryptoharlem)
 * [Cryptoparty NYC](https://www.meetup.com/New-York-Cryptoparty-Network/)
+* [Tech Learning Collective](https://techlearningcollective.com)
 * [NYC Mesh](https://nycmesh.net/)
 * [NYC Resistor](https://www.nycresistor.com/)
 * [Electronic Frontier Alliance](https://www.eff.org/electronic-frontier-alliance)
