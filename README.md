@@ -99,5 +99,9 @@ We try to announce our events in the following places (some are repeats of above
 * Our listserv (email cypurr@protonmail.com to join)
 * EFF emails (like their EFFector listserv)
 * [CryptoParty website](https://www.cryptoparty.in)
+* Our Social Media
+  * [Instagram](https://www.instagram.com/cypurrnyc/)- @cypurrnyc
+  * [Bluesky](https://bsky.app/profile/cypurr.org)- @@cypurr.org‬
+  * [Mastodon](https://mastodon.social/@cypurr)- @cypurr
 
 (ɔ) CyPurr Collective. 
