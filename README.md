@@ -19,11 +19,13 @@ This repo contains all our presentation materials that we've created for cryptop
 Updated as of 08/2025
 
 ### Privacy Tools
-* [privacytools.io](https://www.privacytools.io/) — List of and recommendations for free privacy software
-* [Prism Break](https://prism-break.org/en/) — List of open-source software projects
-* [Diceware](https://www.eff.org/files/2016/07/18/eff_large_wordlist.txt) — Password generation list. An explanation of the EFF's improvements over the original Diceware file is [here](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases)
-* [KeePass](https://keepass.info/) / [KeePassXC](https://www.keepassxc.org/) — Password managers (they're very similar, just for different operating systems)
-* [BitWarden](https://bitwarden.com/)- Password Manager
+* App Overview
+ * [privacytools.io](https://www.privacytools.io/) — List of and recommendations for free privacy software
+ * [Prism Break](https://prism-break.org/en/) — List of open-source software projects
+* Passwords
+ * [Diceware](https://www.eff.org/files/2016/07/18/eff_large_wordlist.txt) — Password generation list. An explanation of the EFF's improvements over the original Diceware file is [here](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases)
+ * [KeePass](https://keepass.info/) / [KeePassXC](https://www.keepassxc.org/) — Password managers (they're very similar, just for different operating systems)
+ * [BitWarden](https://bitwarden.com/)- Password Manager
 * Browser Extensions: 
   * [uBlock Origin](https://www.ublock.org/) — Ad Blocker
   * [Privacy Badger](https://www.eff.org/privacybadger) — Ad/Tracking Blocker
@@ -32,17 +34,18 @@ Updated as of 08/2025
   * [Decentraleyes](https://decentraleyes.org/) — Uses local resources instead of downloaded ones from sites you visit, in case the site is distributing a form of malware (intentionally or otherwise)
   * [Terms of Service; Didn't Read](https://tosdr.org/) — Outdated text, but under development. Displays quick summary of sites' Terms of Service pros and cons
   * [DuckDuckGo](https://duckduckgo.com/) — Search Engine and Browser
-* [Authy](https://authy.com/) / [Yubikey](https://www.yubico.com) — Both make two-factor authentication easier and more secure than SMS-texting codes
-* [Opt-out of Data Brokers](https://www.the-parallax.com/2016/04/07/how-to-clean-up-or-delete-data-brokers-profiles-of-you/) (Even longer list is available [here](https://www.stopdatamining.me/opt-out-list/) – Request data brokers scrub your entries from their records
-* [Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html.en) — Prevents any one from tracing this browser's website visits (if you're careful)
-* [Tails OS](https://tails.boum.org/) — Operating system that only operates in RAM and connects to the Internet through the Tor network
-* [Onion Share](https://onionshare.org/) — File sharing over the Tor Network
-* [Veracrypt](https://www.veracrypt.fr/en/Home.html) — Disk and file encryption utility
-* Pretty Good Privacy (PGP) — Email encryption with public-key cryptography:
+Other Apps
+ * [Authy](https://authy.com/) / [Yubikey](https://www.yubico.com) — Both make two-factor authentication easier and more secure than SMS-texting codes
+ * [Opt-out of Data Brokers](https://www.the-parallax.com/2016/04/07/how-to-clean-up-or-delete-data-brokers-profiles-of-you/) (Even longer list is available [here](https://www.stopdatamining.me/opt-out-list/) – Request data brokers scrub your entries from their records
+ * [Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html.en) — Prevents any one from tracing this browser's website visits (if you're careful)
+ * [Tails OS](https://tails.boum.org/) — Operating system that only operates in RAM and connects to the Internet through the Tor network
+ * [Onion Share](https://onionshare.org/) — File sharing over the Tor Network
+ * [Veracrypt](https://www.veracrypt.fr/en/Home.html) — Disk and file encryption utility
+ * Pretty Good Privacy (PGP) — Email encryption with public-key cryptography:
   * [Enigmail](https://www.enigmail.net/index.php/en/) — Thunderbird add-on for implementing PGP
   * [Mailvelope](https://www.mailvelope.com/en/) — Browser add-on for PGP with webmail clients (like Gmail, Outlook)
-* [Let's Encrypt](https://letsencrypt.org/) — Free site certificate authority
-* [Signal Messenger](https://signal.org/)- open source, end-to-end encrypted messaging app
+ * [Let's Encrypt](https://letsencrypt.org/) — Free site certificate authority
+ * [Signal Messenger](https://signal.org/)- open source, end-to-end encrypted messaging app
 
 ### Guides
 #### *General*
