@@ -42,6 +42,7 @@ Updated as of 08/2025
   * [Enigmail](https://www.enigmail.net/index.php/en/) — Thunderbird add-on for implementing PGP
   * [Mailvelope](https://www.mailvelope.com/en/) — Browser add-on for PGP with webmail clients (like Gmail, Outlook)
 * [Let's Encrypt](https://letsencrypt.org/) — Free site certificate authority
+* [Signal Messenger](https://signal.org/)- open source, end-to-end encrypted messaging app
 
 ### Guides
 #### *General*
