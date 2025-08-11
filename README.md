@@ -23,9 +23,9 @@ Updated as of 08/2025
  * [privacytools.io](https://www.privacytools.io/) — List of and recommendations for free privacy software
  * [Prism Break](https://prism-break.org/en/) — List of open-source software projects
 * Passwords
- * [Diceware](https://www.eff.org/files/2016/07/18/eff_large_wordlist.txt) — Password generation list. An explanation of the EFF's improvements over the original Diceware file is [here](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases)
- * [KeePass](https://keepass.info/) / [KeePassXC](https://www.keepassxc.org/) — Password managers (they're very similar, just for different operating systems)
- * [BitWarden](https://bitwarden.com/)- Password Manager
+   * [Diceware](https://www.eff.org/files/2016/07/18/eff_large_wordlist.txt) — Password generation list. An explanation of the EFF's improvements over the original Diceware file is [here](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases)
+   * [KeePass](https://keepass.info/) / [KeePassXC](https://www.keepassxc.org/) — Password managers (they're very similar, just for different operating systems)
+   * [BitWarden](https://bitwarden.com/)- Password Manager
 * Browser Extensions: 
   * [uBlock Origin](https://www.ublock.org/) — Ad Blocker
   * [Privacy Badger](https://www.eff.org/privacybadger) — Ad/Tracking Blocker
