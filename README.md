@@ -2,9 +2,9 @@
 ## Table of Contents
 1. [Materials](#materials)
 2. [Resources](#resources)
-*  [Privacy Tools](#privacy-tools)
-*  [Guides](#guides)
-*  [Workshop Demonstration Tools](#workshop-demonstration-tools)
+    *  [Privacy Tools](#privacy-tools)
+    *  [Guides](#guides)
+    *  [Workshop Demonstration Tools](#workshop-demonstration-tools)
 3. [Safer Spaces](#safer-spaces)
 4. [Events](#events)
 
@@ -50,6 +50,7 @@ Other Apps
 ### Guides
 #### *General*
 * [Surveillance Self-Defense](https://ssd.eff.org/) by the EFF
+* [Activist Checklist](https://activistchecklist.org/)
 * [Security in a Box](https://securityinabox.org/en/) by Tactical Tech Collective
 * [Holistic Security](https://holistic-security.tacticaltech.org) by Tactical Tech Collective
 * [CryptoParty Handbook](https://www.cryptoparty.in/learn/handbook)
@@ -62,6 +63,7 @@ Other Apps
 * [Freedom of the Press Foundation](https://freedom.press/)
 
 #### *Digital Harassment / Doxxing*
+* [Doxxing Defense](https://activistchecklist.org/doxxing/) - Steps to protect yourself in advance against doxxing
 * [Crash Override Resource Center](http://www.crashoverridenetwork.com/resources.html) — Guide for preventation and harm reduction of digital harassment, as well as help line
 * [HeartMob](https://iheartmob.org/) — Network to provide support of all kinds to anyone being doxxed/trolled/harassed online
 * [Non-consensual Pornography](https://acoso.online/en/) — emphasis on self-protection in South American countries 
